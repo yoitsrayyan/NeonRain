@@ -21,7 +21,7 @@
 ## Build
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NeonRain.git
+git clone https://github.com/yoitsrayyan/NeonRain.git
 cd NeonRain
 make
 ```
