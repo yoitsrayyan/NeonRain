@@ -64,15 +64,6 @@ For a user-local installation:
 make PREFIX="$HOME/.local" uninstall
 ```
 
-## Project files
-
-| File | Purpose |
-| --- | --- |
-| `src/NeonRainEffect.cpp` | The animation source code |
-| `Makefile` | Build, install, uninstall, and clean commands |
-| `assets/penguin.png` | Repository mascot |
-| `assets/neonrain-demo.gif` | Recorded demo for the README |
-
 ## License
 
 Use, modify, and share it freely. Add a license file if you want to publish
